@@ -1,0 +1,2 @@
+# SSM_Test1
+按照动力节点SpringMVC课程写的SSM框架整合例子
